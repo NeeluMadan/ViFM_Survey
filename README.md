@@ -8,8 +8,6 @@
 - [Universal Foundation Models](#Universal)
 
 
-# Papers
-
 # Image-based
 
 **Unmasked Teacher: Towards Training-Efficient Video Foundation Models.** [ICCV, 2023]. <br>
