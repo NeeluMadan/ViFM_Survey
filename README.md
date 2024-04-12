@@ -12,7 +12,7 @@
 
 # Image-based
 
-**Unmasked Teacher: Towards Training-Efficient Video Foundation Models.** <br>
+**Unmasked Teacher: Towards Training-Efficient Video Foundation Models.** [ICCV, 2023]. <br>
 *Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
  [[Paper_Link](https://arxiv.org/pdf/2303.16058.pdf)] [[Code]](https://github.com/OpenGVLab/unmasked_teacher.git)]
 
