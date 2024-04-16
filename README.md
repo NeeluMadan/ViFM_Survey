@@ -17,7 +17,7 @@
 *Santiago Castro and Fabian Caba.*<br>
  [[Paper](https://bmvc2022.mpi-inf.mpg.de/0939.pdf)] [[Code](https://github.com/bryant1410/fitclip)]
 
-**Frozen CLIP models are Efficient Video Learners.** [BMVC, 2022]. <br>
+**Frozen CLIP models are Efficient Video Learners.** [ECCV, 2022]. <br>
 *Ziyi Lin, Shijie Geng, Renrui Zhang, Peng Gao, Gerard de Melo, Xiaogang Wang, Jifeng Dai, Yu Qiao, Hongsheng Li.*<br>
  [[Paper](https://arxiv.org/pdf/2208.03550.pdf)] [[Code](https://github.com/OpenGVLab/efficient-video-recognition.git)]
  
