@@ -105,7 +105,7 @@
 *Zhan Tong, Yibing Song, Jue Wang, Limin Wang*<br>
  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/416f9cb3276121c42eebb86352a4354a-Paper-Conference.pdf)] [[Code](https://github.com/MCG-NJU/VideoMAE)]
 
-**It Takes Two: Masked Appearance-Motion Modeling for Self-supervised Video Transformer Pre-training.** _(MAM<sup>2</sup>)_. [NeurIPS, 2022]. <br>
+**It Takes Two: Masked Appearance-Motion Modeling for Self-supervised Video Transformer Pre-training.** _(MAM<sup>2</sup>)_. [arxiv, 2022]. <br>
 *Yuxin Song, Min Yang, Wenhao Wu, Dongliang He, Fu Li, Jingdong Wang*<br>
  [[Paper](https://arxiv.org/pdf/2210.05234)] [[Code](https://arxiv.org/pdf/2210.05234)]
 
