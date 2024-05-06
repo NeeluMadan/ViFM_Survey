@@ -15,7 +15,7 @@
 
 **COSA: Concatenated Sample Pretrained Vision-Language Foundation Model.** _(COSA)_. [ICLR, 2024]. <br>
 *Sihan Chen, Xingjian He, Handong Li, Xiaojie Jin, Jiashi Feng, Jing Liu.*<br>
- [[Paper](https://openreview.net/pdf?id=bDkisS75zy)] 
+ [[Paper](https://openreview.net/pdf?id=bDkisS75zy)] [[Code](https://github.com/TXH-mercury/COSA)]
  
 **Revealing Single Frame Bias for Video-and-Language Learning.** _(Singularity)_. [ACL, 2023]. <br>
 *Jie Lei, Tamara L Berg, Mohit Bansal.*<br>
