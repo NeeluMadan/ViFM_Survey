@@ -73,11 +73,11 @@
 *Santiago Castro and Fabian Caba.*<br>
  [[Paper](https://bmvc2022.mpi-inf.mpg.de/0939.pdf)] [[Code](https://github.com/bryant1410/fitclip)]
 
-**Revisiting the "Video" in Video-Language Understanding.** [CVPR, 2022]. _(ATP)_. <br>
+**Revisiting the "Video" in Video-Language Understanding.** _(ATP)_. [CVPR, 2022]. <br>
 *Shyamal Buch, Cristóbal Eyzaguirre, Adrien Gaidon, Jiajun Wu, Li Fei-Fei, Juan Carlos Niebles.*<br>
  [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf)] [[Code](https://github.com/StanfordVL/atp-video-language)]
  
-**Frozen CLIP models are Efficient Video Learners.** [ECCV, 2022]. _(EVL)_. <br>
+**Frozen CLIP models are Efficient Video Learners.**  _(EVL)_. [ECCV, 2022]. <br>
 *Ziyi Lin, Shijie Geng, Renrui Zhang, Peng Gao, Gerard de Melo, Xiaogang Wang, Jifeng Dai, Yu Qiao, Hongsheng Li.*<br>
  [[Paper](https://arxiv.org/pdf/2208.03550.pdf)] [[Code](https://github.com/OpenGVLab/efficient-video-recognition.git)]
 
