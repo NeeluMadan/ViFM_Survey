@@ -61,11 +61,11 @@
 *Ziyi Lin, Shijie Geng, Renrui Zhang, Peng Gao, Gerard de Melo, Xiaogang Wang, Jifeng Dai, Yu Qiao, Hongsheng Li.*<br>
  [[Paper](https://arxiv.org/pdf/2208.03550.pdf)] [[Code](https://github.com/OpenGVLab/efficient-video-recognition.git)]
 
-**Prompting Visual-Language Models for Efficient Video Understanding.** _(Prompt-CLIP)_ [ECCV, 2022]. <br>
+**Prompting Visual-Language Models for Efficient Video Understanding.** _(Prompt-CLIP)_. [ECCV, 2022]. <br>
 *Chen Ju, Tengda Han, Kunhao Zheng, Ya Zhang, Weidi Xie.*<br>
  [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950104.pdf)] [[Code](https://github.com/ju-chen/Efficient-Prompt)]
  
-**VideoCoCa: Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners.** _(Video-CoCa)_ [arxiv, 2022]. <br>
+**VideoCoCa: Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners.** _(Video-CoCa)_. [arxiv, 2022]. <br>
 *Shen Yan, Tao Zhu, Zirui Wang, Yuan Cao, Mi Zhang, Soham Ghosh, Yonghui Wu, Jiahui Yu.*<br>
  [[Paper](https://arxiv.org/pdf/2212.04979.pdf)] 
 
