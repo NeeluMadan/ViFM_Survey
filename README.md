@@ -137,6 +137,14 @@
 *Tsu-Jui Fu, Licheng Yu, Ning Zhang, Cheng-Yang Fu, Jong-Chyi Su, William Yang Wang, Sean Bell*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_VideoMAE_V2_Scaling_Video_Masked_Autoencoders_With_Dual_Masking_CVPR_2023_paper.pdf)] [[Code](https://github.com/OpenGVLab/VideoMAEv2)]
 
+**VindLU: A Recipe for Effective Video-and-Language Pretraining.** _(VindLU)_. [CVPR, 2023]. <br>
+*Feng Cheng, Xizi Wang, Jie Lei, David Crandall, Mohit Bansal, Gedas Bertasius*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cheng_VindLU_A_Recipe_for_Effective_Video-and-Language_Pretraining_CVPR_2023_paper.pdf)] [[Code](https://github.com/klauscc/VindLU)]
+
+**An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling.** _(Violetv2)_. [CVPR, 2023]. <br>
+*Tsu-Jui Fu, Linjie Li, Zhe Gan, Kevin Lin, William Yang Wang, Lijuan Wang, Zicheng Liu*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_An_Empirical_Study_of_End-to-End_Video-Language_Transformers_With_Masked_Visual_CVPR_2023_paper.pdf)] [[Code](https://github.com/tsujuifu/pytorch_empirical-mvm)]
+
 **Audiovisual Masked Autoencoders.** _(AudVis MAE)_. [ICCV, 2023]. <br>
 *Mariana-Iuliana Georgescu, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Georgescu_Audiovisual_Masked_Autoencoders_ICCV_2023_paper.pdf)]
@@ -156,6 +164,10 @@
 **Paxion: Patching Action Knowledge in Video-Language Foundation Models.** _(PAXION)_. [NeurIPS, 2023]. <br>
 *Zhenhailong Wang, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji*<br>
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/420492060687ca7448398c4c3fa10366-Paper-Conference.pdf)] [[Code](https://github.com/MikeWangWZHL/Paxion)]
+
+**MuLTI: Efficient Video-and-Language Understanding with Text-Guided MultiWay-Sampler and Multiple Choice Modeling.** _(MuLTI)_. [arxiv, 2023]. <br>
+*Jiaqi Xu, Bo Liu, Yunkuo Chen, Mengli Cheng, Xing Shi*<br>
+[[Paper](https://arxiv.org/pdf/2303.05707)] 
 
 **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions.** _(HD-VILA)_. [CVPR, 2022]. <br>
 *Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, Huan Yang, Jianlong Fu, Baining Guo.*<br>
