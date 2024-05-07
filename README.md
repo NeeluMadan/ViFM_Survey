@@ -1,5 +1,10 @@
 # Foundation Models for Video Understanding: A Survey
 
+[![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://github.com/NeeluMadan/ViFM_Survey/issues)
+&nbsp;
+[![welcome](https://img.shields.io/badge/Issues&#44;%20Comments&#44;%20and%20Questions-are%20all%20welcomed&#33;-f39f37)](https://github.com/NeeluMadan/ViFM_Survey/issues)
+
+![benchmark](MainClassification.png)
 
 # Menu
 
