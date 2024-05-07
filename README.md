@@ -221,11 +221,41 @@
 *Huaishao Luo, Lei Ji, Botian Shi, Haoyang Huang, Nan Duan, Tianrui Li, Jason Li, Taroon Bharti, Ming Zhou*<br>
 [[Paper](https://arxiv.org/pdf/2002.06353)] [[Code](https://github.com/microsoft/UniVL)]
 
+
 # Universal
+
+
+**General Object Foundation Model for Images and Videos at Scale.** _(GLEE)_. [CVPR, 2024]. <br>
+*Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai*<br>
+[[Paper](https://arxiv.org/pdf/2312.09158)] [[Code](https://github.com/FoundationVision/GLEE)]
+
+**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment.** _(LanguageBind)_. [ICLR, 2024]. <br>
+*Bin Zhu, Bin Lin, Munan Ning, Yang Yan, Jiaxi Cui, HongFa Wang, Yatian Pang, Wenhao Jiang, Junwu Zhang, Zongwei Li, Wancai Zhang, Zhifeng Li, Wei Liu, Li Yuan*<br>
+[[Paper](https://arxiv.org/pdf/2310.01852)] [[Code](https://github.com/PKU-YuanGroup/LanguageBind)]
+
+**X<sup>2</sup>-VLM: All-In-One Pre-trained Model For Vision-Language Tasks.** _(X<sup>2</sup>-VLM)_. [TPAMI, 2024]. <br>
+*Yan Zeng, Xinsong Zhang, Hang Li, Jiawei Wang, Jipeng Zhang, Wangchunshu Zhou*<br>
+[[Paper](https://arxiv.org/pdf/2211.12402)] [[Code](https://github.com/PKU-YuanGroup/LanguageBind)]
+
+**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding.** _(InternVideo2)_. [arxiv, 2024]. <br>
+*Yi Wang, Kunchang Li, Xinhao Li, Jiashuo Yu, Yinan He, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang, Yansong Shi, Tianxiang Jiang, Songze Li, Hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang*<br>
+[[Paper](https://arxiv.org/pdf/2403.15377)] [[Code](https://github.com/OpenGVLab/InternVideo2)]
+
+**Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization.** _(Video-LaVIT)_. [arxiv, 2024]. <br>
+*Yang Jin, Zhicheng Sun, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Quzhe Huang, Chengru Song, Yuliang Liu, Di Zhang, Yang Song, Kun Gai, Yadong Mu*<br>
+[[Paper](https://arxiv.org/pdf/2402.03161)] [[Code](https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT)]
+
+**VideoPoet: A Large Language Model for Zero-Shot Video Generation.** _(VideoPoet)_. [arxiv, 2024]. <br>
+*Dan Kondratyuk, Lijun Yu, Xiuye Gu, José Lezama, Jonathan Huang, Grant Schindler, Rachel Hornung, Vighnesh Birodkar, Jimmy Yan, Ming-Chang Chiu, Krishna Somandepalli, Hassan Akbari, Yair Alon, Yong Cheng, Josh Dillon, Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen, Mikhail Sirotenko, Kihyuk Sohn, Xuan Yang, Hartwig Adam, Ming-Hsuan Yang, Irfan Essa, Huisheng Wang, David A. Ross, Bryan Seybold, Lu Jiang*<br>
+[[Paper](https://arxiv.org/pdf/2312.14125)] 
 
 **OmniMAE: Single Model Masked Pretraining on Images and Videos.** _(OmniMAE)_. [CVPR, 2023]. <br>
 *Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_OmniMAE_Single_Model_Masked_Pretraining_on_Images_and_Videos_CVPR_2023_paper.pdf)] [[Code](https://github.com/facebookresearch/omnivore/tree/main/omnimae)]
+
+**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset.** _(VAST)_. [NeurIPS, 2023]. <br>
+*Sihan Chen, Handong Li, Qunbo Wang, Zijia Zhao, Mingzhen Sun, Xinxin Zhu, Jing Liu*<br>
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e6b2b48b5ed90d07c305932729927781-Paper-Conference.pdf)] [[Code](https://github.com/TXH-mercury/VAST)]
 
 **Masked Feature Prediction for Self-Supervised Visual Pre-Training.** _(MaskFeat)_. [CVPR, 2022]. <br>
 *Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille, Christoph Feichtenhofer*<br>
@@ -235,14 +265,16 @@
 *Junke Wang, Dongdong Chen, Zuxuan Wu, Chong Luo, Luowei Zhou, Yucheng Zhao, Yujia Xie, Ce Liu, Yu-Gang Jiang, Lu Yuan*<br>
 [[Paper](https://openreview.net/pdf?id=u4ihlSG240n)] 
 
+**Self-supervised video pretraining yields human-aligned visual representations.** _(VITO)_. [arxiv, 2022]. <br>
+*Nikhil Parthasarathy, S. M. Ali Eslami, João Carreira, Olivier J. Hénaff*<br>
+[[Paper](https://arxiv.org/pdf/2210.06433)] 
+
 **VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding.** _(VLM)_. [ACL, 2021]. <br>
 *Hu Xu, Gargi Ghosh, Po-Yao Huang, Prahal Arora, Masoumeh Aminzadeh, Christoph Feichtenhofer, Florian Metze, Luke Zettlemoyer*<br>
 [[Paper](https://aclanthology.org/2021.findings-acl.370.pdf)] [[Code](https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT)]
 
-**Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization.** _(Video-LaVIT)_. [arxiv, 2024]. <br>
-*Yang Jin, Zhicheng Sun, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Quzhe Huang, Chengru Song, Yuliang Liu, Di Zhang, Yang Song, Kun Gai, Yadong Mu*<br>
-[[Paper](https://arxiv.org/pdf/2402.03161)] [[Code](https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT)]
+**VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text.** _(VATT)_. [NeurIPS, 2021]. <br>
+*Hassan Akbari, Liangzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong*<br>
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/cb3213ada48302953cb0f166464ab356-Paper.pdf)] [[Code](https://github.com/google-research/google-research/tree/master/vatt)]
 
-**VideoPoet: A Large Language Model for Zero-Shot Video Generation.** _(VideoPoet)_. [arxiv, 2024]. <br>
-*Dan Kondratyuk, Lijun Yu, Xiuye Gu, José Lezama, Jonathan Huang, Grant Schindler, Rachel Hornung, Vighnesh Birodkar, Jimmy Yan, Ming-Chang Chiu, Krishna Somandepalli, Hassan Akbari, Yair Alon, Yong Cheng, Josh Dillon, Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen, Mikhail Sirotenko, Kihyuk Sohn, Xuan Yang, Hartwig Adam, Ming-Hsuan Yang, Irfan Essa, Huisheng Wang, David A. Ross, Bryan Seybold, Lu Jiang*<br>
-[[Paper](https://arxiv.org/pdf/2312.14125)] [[Code](https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT)]
+
