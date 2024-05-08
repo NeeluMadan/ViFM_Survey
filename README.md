@@ -1,6 +1,6 @@
 # Foundation Models for Video Understanding: A Survey
 
-[![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://github.com/NeeluMadan/ViFM_Survey/issues)
+[![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/pdf/2405.03770)
 &nbsp;
 [![welcome](https://img.shields.io/badge/Issues&#44;%20Comments&#44;%20and%20Questions-are%20all%20welcomed&#33;-f39f37)](https://github.com/NeeluMadan/ViFM_Survey/issues)
 
@@ -249,13 +249,41 @@
 *Dan Kondratyuk, Lijun Yu, Xiuye Gu, José Lezama, Jonathan Huang, Grant Schindler, Rachel Hornung, Vighnesh Birodkar, Jimmy Yan, Ming-Chang Chiu, Krishna Somandepalli, Hassan Akbari, Yair Alon, Yong Cheng, Josh Dillon, Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen, Mikhail Sirotenko, Kihyuk Sohn, Xuan Yang, Hartwig Adam, Ming-Hsuan Yang, Irfan Essa, Huisheng Wang, David A. Ross, Bryan Seybold, Lu Jiang*<br>
 [[Paper](https://arxiv.org/pdf/2312.14125)] 
 
+**VideoPrism: A Foundational Visual Encoder for Video Understanding.** _(VideoPrism)_. [arxiv, 2024]. <br>
+*Long Zhao, Nitesh B. Gundavarapu, Liangzhe Yuan, Hao Zhou, Shen Yan, Jennifer J. Sun, Luke Friedman, Rui Qian, Tobias Weyand, Yue Zhao, Rachel Hornung, Florian Schroff, Ming-Hsuan Yang, David A. Ross, Huisheng Wang, Hartwig Adam, Mikhail Sirotenko, Ting Liu, Boqing Gong*<br>
+[[Paper](https://arxiv.org/pdf/2402.13217)] 
+
 **OmniMAE: Single Model Masked Pretraining on Images and Videos.** _(OmniMAE)_. [CVPR, 2023]. <br>
 *Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_OmniMAE_Single_Model_Masked_Pretraining_on_Images_and_Videos_CVPR_2023_paper.pdf)] [[Code](https://github.com/facebookresearch/omnivore/tree/main/omnimae)]
 
+**SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training.** _(Smaug)_. [ICCV, 2023]. <br>
+*Yuanze Lin, Chen Wei, Huiyu Wang, Alan Yuille, Cihang Xie*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_SMAUG_Sparse_Masked_Autoencoder_for_Efficient_Video-Language_Pre-Training_ICCV_2023_paper.pdf)] 
+
+**mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video.** _(mPLUG-2)_. [ICML, 2023]. <br>
+*Haiyang Xu, Qinghao Ye, Ming Yan, Yaya Shi, Jiabo Ye, Yuanhong Xu, Chenliang Li, Bin Bi, Qi Qian, Wei Wang, Guohai Xu, Ji Zhang, Songfang Huang, Fei Huang, Jingren Zhou*<br>
+[[Paper](https://proceedings.mlr.press/v202/xu23s/xu23s.pdf)] [[Code](https://github.com/X-PLUG/mPLUG-2)]
+
+**Contrastive Audio-Visual Masked Autoencoder.** _(CAV-MAE)_. [ICLR, 2023]. <br>
+*Yuan Gong, Andrew Rouditchenko, Alexander H. Liu, David Harwath, Leonid Karlinsky, Hilde Kuehne, James Glass*<br>
+[[Paper](https://openreview.net/pdf?id=QPtMRyk5rb)] [[Code](https://github.com/YuanGongND/cav-mae)]
+
 **VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset.** _(VAST)_. [NeurIPS, 2023]. <br>
 *Sihan Chen, Handong Li, Qunbo Wang, Zijia Zhao, Mingzhen Sun, Xinxin Zhu, Jing Liu*<br>
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e6b2b48b5ed90d07c305932729927781-Paper-Conference.pdf)] [[Code](https://github.com/TXH-mercury/VAST)]
+
+**Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention.** _(Perceiver-VL)_. [WACV, 2023]. <br>
+*Zineng Tang, Jaemin Cho, Jie Lei, Mohit Bansal*<br>
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Tang_Perceiver-VL_Efficient_Vision-and-Language_Modeling_With_Iterative_Latent_Attention_WACV_2023_paper.pdf)] [[Code](https://github.com/zinengtang/Perceiver_VL)]
+
+**ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders.** _(Vic-MAE)_. [arxiv, 2023]. <br>
+*Jefferson Hernandez, Ruben Villegas, Vicente Ordonez*<br>
+[[Paper](https://arxiv.org/pdf/2303.12001)]
+
+**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset.** _(VALOR)_. [arxiv, 2023]. <br>
+*Jefferson Hernandez, Ruben Villegas, Vicente Ordonez*<br>
+[[Paper](https://arxiv.org/pdf/2304.08345)] [[Code](https://github.com/TXH-mercury/VALOR)]
 
 **Masked Feature Prediction for Self-Supervised Visual Pre-Training.** _(MaskFeat)_. [CVPR, 2022]. <br>
 *Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille, Christoph Feichtenhofer*<br>
@@ -265,6 +293,10 @@
 *Junke Wang, Dongdong Chen, Zuxuan Wu, Chong Luo, Luowei Zhou, Yucheng Zhao, Yujia Xie, Ce Liu, Yu-Gang Jiang, Lu Yuan*<br>
 [[Paper](https://openreview.net/pdf?id=u4ihlSG240n)] 
 
+**InternVideo: General Video Foundation Models via Generative and Discriminative Learning.** _(InternVideo)_. [arxiv, 2022]. <br>
+*Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zhang, Jilan Xu, Yi Liu, Zun Wang, Sen Xing, Guo Chen, Junting Pan, Jiashuo Yu, Yali Wang, Limin Wang, Yu Qiao*<br>
+[[Paper](https://arxiv.org/pdf/2212.03191)] [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo1)]
+
 **Self-supervised video pretraining yields human-aligned visual representations.** _(VITO)_. [arxiv, 2022]. <br>
 *Nikhil Parthasarathy, S. M. Ali Eslami, João Carreira, Olivier J. Hénaff*<br>
 [[Paper](https://arxiv.org/pdf/2210.06433)] 
@@ -272,6 +304,10 @@
 **VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding.** _(VLM)_. [ACL, 2021]. <br>
 *Hu Xu, Gargi Ghosh, Po-Yao Huang, Prahal Arora, Masoumeh Aminzadeh, Christoph Feichtenhofer, Florian Metze, Luke Zettlemoyer*<br>
 [[Paper](https://aclanthology.org/2021.findings-acl.370.pdf)] [[Code](https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT)]
+
+**MERLOT: Multimodal Neural Script Knowledge Models.** _(MERLOT)_. [NeurIPS, 2021]. <br>
+*Rowan Zellers, Ximing Lu, Jack Hessel, Youngjae Yu, Jae Sung Park, Jize Cao, Ali Farhadi, Yejin Choi*<br>
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/c6d4eb15f1e84a36eff58eca3627c82e-Paper.pdf)] [[Code](https://github.com/rowanz/merlot)]
 
 **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text.** _(VATT)_. [NeurIPS, 2021]. <br>
 *Hassan Akbari, Liangzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong*<br>
