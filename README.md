@@ -5,12 +5,13 @@
 [![welcome](https://img.shields.io/badge/Issues&#44;%20Comments&#44;%20and%20Questions-are%20all%20welcomed&#33;-f39f37)](https://github.com/NeeluMadan/ViFM_Survey/issues)
 
 
+![benchmark](./Images/video_papers.png)
+
 The field of video understanding is undergoing significant advancement, as evidenced by the increasing number of research publications focused on various video understanding tasks (Figure below). This growth coincides with the development of large-scale pretraining techniques. These techniques have demonstrated remarkable capabilities in adapting to diverse tasks, requiring minimal additional training with robust generalization. As a result, researchers are actively investigating the role of these foundational models to address a broad spectrum of video understanding challenges. We surveyed more than 200 foundation models, analyzing their performance over several common video tasks. Our survey, [[Foundation Model for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770)], also provides an overview of 16 different video tasks, including their benchmarks and evaluation metrics.
 
-![benchmark](./Images/video_papers.png)
 ![benchmark](./Images/Model_Task_Progress.png)
 
-## Classification
+## Main Classification
 ![benchmark](./Images/MainClassification.png)
 
 # Menu
