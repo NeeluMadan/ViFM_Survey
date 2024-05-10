@@ -1,4 +1,4 @@
-# [[Foundation Models for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770)]
+# [Foundation Models for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770)
 
 [![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/pdf/2405.03770)
 &nbsp;
