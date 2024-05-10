@@ -50,6 +50,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Zhiwu Qing, Shiwei Zhang, Ziyuan Huang, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Qing_Disentangling_Spatial_and_Temporal_Learning_for_Efficient_Image-to-Video_Transfer_Learning_ICCV_2023_paper.pdf)] [[Code](https://github.com/alibaba-mmai-research/DiST)]
 
+**AIM: Adapting Image Models for Efficient Video Action Recognition.** _(AIM)_. [ICLR, 2023]. <br>
+*Taojiannan Yang, Yi Zhu, Yusheng Xie, Aston Zhang, Chen Chen, Mu Li.*<br>
+[[Paper](https://openreview.net/pdf?id=CIoSZ_HKHS7)] [[Code](https://adapt-image-models.github.io/)]
+
 **Alignment and Generation Adapter for Efficient Video-text Understanding.** _(AG-Adapter)_. [ICCVW, 2023]. <br>
 *Han Fang; Zhifei Yang; Yuhan Wei; Xianghao Zang; Chao Ban; Zerun Feng; Zhongjiang He; Yongxiang Li; Hao Sun.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Fang_Alignment_and_Generation_Adapter_for_Efficient_Video-Text_Understanding_ICCVW_2023_paper.pdf)] 
@@ -102,7 +106,9 @@ The field of video understanding is undergoing significant advancement, as evide
 *Shen Yan, Tao Zhu, Zirui Wang, Yuan Cao, Mi Zhang, Soham Ghosh, Yonghui Wu, Jiahui Yu.*<br>
  [[Paper](https://arxiv.org/pdf/2212.04979.pdf)] 
 
-
+**ActionCLIP: A New Paradigm for Video Action Recognition.** _(ActionCLIP)_. [arxiv, 2021]. <br>
+*Mengmeng Wang, Jiazheng Xing, Yong Liu.*<br>
+ [[Paper](https://arxiv.org/pdf/2109.08472)] [[Code](https://github.com/sallymmx/ActionCLIP)]
 
 # Video-based
 **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.** _(ViCLIP)_. [ICLR, 2024]. <br>
