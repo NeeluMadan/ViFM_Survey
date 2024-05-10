@@ -4,7 +4,11 @@
 &nbsp;
 [![welcome](https://img.shields.io/badge/Issues&#44;%20Comments&#44;%20and%20Questions-are%20all%20welcomed&#33;-f39f37)](https://github.com/NeeluMadan/ViFM_Survey/issues)
 
-![benchmark](MainClassification.png)
+![benchmark](./Images/video_papers.png)
+
+![benchmark](./Images/Model_Task_Progress.png)
+
+![benchmark](./Images/MainClassification.png)
 
 # Menu
 
