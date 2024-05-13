@@ -1,4 +1,5 @@
 # [Foundation Models for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770)
+Neelu Madan, Andreas Moegelmose, Rajat Modi, Yogesh S. Rawat, Thomas B. Moeslund
 
 [![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/pdf/2405.03770)
 &nbsp;
@@ -7,7 +8,7 @@
 
 ![benchmark](./Images/video_papers.png)
 
-The field of video understanding is undergoing significant advancement, as evidenced by the increasing number of research publications focused on various video understanding tasks (Figure below). This growth coincides with the development of large-scale pretraining techniques. These techniques have demonstrated remarkable capabilities in adapting to diverse tasks, requiring minimal additional training with robust generalization. As a result, researchers are actively investigating the role of these foundational models to address a broad spectrum of video understanding challenges. We surveyed more than 200 foundation models, analyzing their performance over several common video tasks. Our survey, [[Foundation Model for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770)], also provides an overview of 16 different video tasks, including their benchmarks and evaluation metrics.
+The field of video understanding is undergoing significant advancement, as evidenced by the increasing number of research publications focused on various video understanding tasks (Figure below). This growth coincides with the development of large-scale pretraining techniques. These techniques have demonstrated remarkable capabilities in adapting to diverse tasks, requiring minimal additional training with robust generalization. As a result, researchers are actively investigating the role of these foundational models to address a broad spectrum of video understanding challenges. We surveyed more than 200 foundation models, analyzing their performance over several common video tasks. Our survey, [Foundation Model for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770), also provides an overview of 16 different video tasks, including their benchmarks and evaluation metrics.
 
 ![benchmark](./Images/Model_Task_Progress.png)
 
@@ -38,6 +39,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612152)] [[Code](https://github.com/SCZwangxiao/RTQ-MM2023)]
  
+**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models.** _(BIKE)_. [CVPR, 2023]. <br>
+*Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Bidirectional_Cross-Modal_Knowledge_Exploration_for_Video_Recognition_With_Pre-Trained_Vision-Language_CVPR_2023_paper.pdf)] [[Code](https://github.com/whwu95/BIKE)]
+
 **Dual-path Adaptation from Image to Video Transformers.** _(DualPath)_. [CVPR, 2023]. <br>
 *Jungin Park, Jiyoung Lee, Kwanghoon Sohn.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Dual-Path_Adaptation_From_Image_to_Video_Transformers_CVPR_2023_paper.pdf)] [[Code](https://github.com/park-jungin/DualPath.git)]
@@ -109,6 +114,8 @@ The field of video understanding is undergoing significant advancement, as evide
 **ActionCLIP: A New Paradigm for Video Action Recognition.** _(ActionCLIP)_. [arxiv, 2021]. <br>
 *Mengmeng Wang, Jiazheng Xing, Yong Liu.*<br>
  [[Paper](https://arxiv.org/pdf/2109.08472)] [[Code](https://github.com/sallymmx/ActionCLIP)]
+
+
 
 # Video-based
 **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.** _(ViCLIP)_. [ICLR, 2024]. <br>
