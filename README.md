@@ -47,7 +47,11 @@ The field of video understanding is undergoing significant advancement, as evide
 **Revealing Single Frame Bias for Video-and-Language Learning.** _(Singularity)_. [ACL, 2023]. <br>
 *Jie Lei, Tamara L Berg, Mohit Bansal.*<br>
 [[Paper](https://aclanthology.org/2023.acl-long.29.pdf)] [[Code](https://github.com/jayleicn/singularity)]
- 
+
+**CLIP4Caption: CLIP for Video Caption.** _(CLIP4Caption)_. [ACM-MM, 2023]. <br>
+*Mingkang Tang, Zhanyu Wang, Zhenhua Liu, Fengyun Rao, Dian Li, Xiu Li.*<br>
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3479207)] 
+
 **RTQ: Rethinking Video-language Understanding Based on Image-text Model.** _(RTQ)_. [ACM Multimedia, 2023]. <br>
 *Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612152)] [[Code](https://github.com/SCZwangxiao/RTQ-MM2023)]
@@ -194,6 +198,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, Guo Chen, Xinyuan Chen, Yaohui Wang, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://openreview.net/pdf?id=MLBdiWu4Fw)] [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)]
 
+**VideoChat: Chat-Centric Video Understanding.** _(VideoChat)_. [arxiv, 2024]. <br>
+*KunChang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang, Ping Luo, Yali Wang, Limin Wang, Yu Qiao.*<br>
+[[Paper](https://arxiv.org/pdf/2305.06355)] [[Code](https://github.com/OpenGVLab/Ask-Anything)]
+
 **All in One: Exploring Unified Video-Language Pre-training.** _(All-in-One)_. [CVPR, 2023]. <br>
 *Alex Jinpeng Wang, Yixiao Ge, Rui Yan, Yuying Ge, Xudong Lin, Guanyu Cai, Jianping Wu, Ying Shan, Xiaohu Qie, Mike Zheng Shou.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_All_in_One_Exploring_Unified_Video-Language_Pre-Training_CVPR_2023_paper.pdf)] [[Code](https://github.com/showlab/all-in-one)]
@@ -238,6 +246,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Tsu-Jui Fu, Linjie Li, Zhe Gan, Kevin Lin, William Yang Wang, Lijuan Wang, Zicheng Liu.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_An_Empirical_Study_of_End-to-End_Video-Language_Transformers_With_Masked_Visual_CVPR_2023_paper.pdf)] [[Code](https://github.com/tsujuifu/pytorch_empirical-mvm)]
 
+**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding.** _(Video-LLaMA)_. [EMNLP, 2023]. <br>
+*Hang Zhang, Xin Li, Lidong Bing.*<br>
+[[Paper](https://aclanthology.org/2023.emnlp-demo.49.pdf)] [[Code](https://github.com/DAMO-NLP-SG/Video-LLaMA)]
+
 **Audiovisual Masked Autoencoders.** _(AudVis MAE)_. [ICCV, 2023]. <br>
 *Mariana-Iuliana Georgescu, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Georgescu_Audiovisual_Masked_Autoencoders_ICCV_2023_paper.pdf)]
@@ -266,6 +278,14 @@ The field of video understanding is undergoing significant advancement, as evide
 *Jiaqi Xu, Bo Liu, Yunkuo Chen, Mengli Cheng, Xing Shi.*<br>
 [[Paper](https://arxiv.org/pdf/2303.05707)] 
 
+**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models.** _(Video-ChatGPT)_. [arxiv, 2023]. <br>
+*Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan.*<br>
+[[Paper](https://arxiv.org/pdf/2306.05424)] [[Code](https://github.com/mbzuai-oryx/Video-ChatGPT)]
+
+**Video-LLaVA: Learning United Visual Representation by Alignment Before Projection.** _(Video-LLaVA)_. [arxiv, 2023]. <br>
+*Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng Jin, Li Yuan.*<br>
+[[Paper](https://arxiv.org/pdf/2311.10122)] [[Code](https://github.com/PKU-YuanGroup/Video-LLaVA)]
+
 **Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions.** _(HD-VILA)_. [CVPR, 2022]. <br>
 *Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, Huan Yang, Jianlong Fu, Baining Guo.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Advancing_High-Resolution_Video-Language_Representation_With_Large-Scale_Video_Transcriptions_CVPR_2022_paper.pdf)] [[Code](https://github.com/microsoft/XPretrain/tree/main/hd-vila)]
@@ -274,17 +294,25 @@ The field of video understanding is undergoing significant advancement, as evide
 *Dongxu Li, Junnan Li, Hongdong Li, Juan Carlos Niebles, Steven C.H. Hoi.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Align_and_Prompt_Video-and-Language_Pre-Training_With_Entity_Prompts_CVPR_2022_paper.pdf)] [[Code](https://github.com/salesforce/ALPRO)]
 
-**Bridging Video-text Retrieval with Multiple Choice Questions.** _(ALPRO)_. [CVPR, 2022]. <br>
-*Yuying Ge, Yixiao Ge, Xihui Liu, Dian Li, Ying Shan, Xiaohu Qie, Ping Luo.*<br>
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ge_Bridging_Video-Text_Retrieval_With_Multiple_Choice_Questions_CVPR_2022_paper.pdf)] [[Code](https://github.com/TencentARC/MCQ)]
-
 **BEVT: BERT Pretraining of Video Transformers.** _(Bevt)_. [CVPR, 2022]. <br>
 *Rui Wang, Dongdong Chen, Zuxuan Wu, Yinpeng Chen, Xiyang Dai, Mengchen Liu, Yu-Gang Jiang, Luowei Zhou, Lu Yuan.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_BEVT_BERT_Pretraining_of_Video_Transformers_CVPR_2022_paper.pdf)] [[Code](https://github.com/xyzforever/BEVT/tree/main)]
 
+**Bridging Video-text Retrieval with Multiple Choice Questions.** _(ALPRO)_. [CVPR, 2022]. <br>
+*Yuying Ge, Yixiao Ge, Xihui Liu, Dian Li, Ying Shan, Xiaohu Qie, Ping Luo.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ge_Bridging_Video-Text_Retrieval_With_Multiple_Choice_Questions_CVPR_2022_paper.pdf)] [[Code](https://github.com/TencentARC/MCQ)]
+
+**End-to-end Generative Pretraining for Multimodal Video Captioning.** _(MV-GPT)_. [CVPR, 2022]. <br>
+*Paul Hongsuck Seo, Arsha Nagrani, Anurag Arnab, Cordelia Schmid.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Seo_End-to-End_Generative_Pretraining_for_Multimodal_Video_Captioning_CVPR_2022_paper.pdf)] 
+
 **Object-aware Video-language Pre-training for Retrieval.** _(OA-Trans)_. [CVPR, 2022]. <br>
 *Alex Jinpeng Wang, Yixiao Ge, Guanyu Cai, Rui Yan, Xudong Lin, Ying Shan, Xiaohu Qie, Mike Zheng Shou.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Object-Aware_Video-Language_Pre-Training_for_Retrieval_CVPR_2022_paper.pdf)] [[Code](https://github.com/FingerRec/OA-Transformer)]
+
+**SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning.** _(SwinBERT)_. [CVPR, 2022]. <br>
+*Kevin Lin, Linjie Li, Chung-Ching Lin, Faisal Ahmed, Zhe Gan, Zicheng Liu, Yumao Lu, Lijuan Wang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SwinBERT_End-to-End_Transformers_With_Sparse_Attention_for_Video_Captioning_CVPR_2022_paper.pdf)] [[Code](https://github.com/microsoft/SwinBERT)]
 
 **MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval.** _(MILES)_. [ECCV, 2022]. <br>
 *Yuying Ge, Yixiao Ge, Xihui Liu, Alex Jinpeng Wang, Jianping Wu, Ying Shan, Xiaohu Qie, Ping Luo.*<br>
@@ -326,6 +354,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Hu Xu, Gargi Ghosh, Po-Yao Huang, Dmytro Okhonko, Armen Aghajanyan, Florian Metze, Luke Zettlemoyer, Christoph Feichtenhofer.*<br>
 [[Paper](https://aclanthology.org/2021.emnlp-main.544.pdf)] [[Code](https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT)]
 
+**Just Ask: Learning to Answer Questions from Millions of Narrated Videos.** _(Just-Ask)_. [ICCV, 2021]. <br>
+*Antoine Yang, Antoine Miech, Josef Sivic, Ivan Laptev, Cordelia Schmid.*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf)] [[Code](https://github.com/antoyang/just-ask)]
+
 **VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning.** _(Vimpac)_. [arxiv, 2021]. <br>
 *Hao Tan, Jie Lei, Thomas Wolf, Mohit Bansal.*<br>
 [[Paper](https://arxiv.org/pdf/2106.11250)] [[Code](https://github.com/airsplay/vimpac)]
@@ -336,8 +368,6 @@ The field of video understanding is undergoing significant advancement, as evide
 
 
 # Universal
-
-
 **General Object Foundation Model for Images and Videos at Scale.** _(GLEE)_. [CVPR, 2024]. <br>
 *Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai.*<br>
 [[Paper](https://arxiv.org/pdf/2312.09158)] [[Code](https://github.com/FoundationVision/GLEE)]
