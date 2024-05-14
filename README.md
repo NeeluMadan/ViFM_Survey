@@ -368,6 +368,10 @@ The field of video understanding is undergoing significant advancement, as evide
 
 
 # Universal
+**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding.** _(Chat-UniVi)_. [CVPR, 2024]. <br>
+*Peng Jin, Ryuichi Takanobu, Wancai Zhang, Xiaochun Cao, Li Yuan.*<br>
+[[Paper](https://arxiv.org/pdf/2311.08046)] [[Code](https://github.com/PKU-YuanGroup/Chat-UniVi)]
+
 **General Object Foundation Model for Images and Videos at Scale.** _(GLEE)_. [CVPR, 2024]. <br>
 *Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai.*<br>
 [[Paper](https://arxiv.org/pdf/2312.09158)] [[Code](https://github.com/FoundationVision/GLEE)]
@@ -419,6 +423,18 @@ The field of video understanding is undergoing significant advancement, as evide
 **Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention.** _(Perceiver-VL)_. [WACV, 2023]. <br>
 *Zineng Tang, Jaemin Cho, Jie Lei, Mohit Bansal.*<br>
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Tang_Perceiver-VL_Efficient_Vision-and-Language_Modeling_With_Iterative_Latent_Attention_WACV_2023_paper.pdf)] [[Code](https://github.com/zinengtang/Perceiver_VL)]
+
+**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models.** _(FAVOR)_. [arxiv, 2023]. <br>
+*Guangzhi Sun, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang.*<br>
+[[Paper](https://arxiv.org/pdf/2310.05863)] [[Code](https://github.com/BriansIDP/AudioVisualLLM)]
+
+**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration.** _(Macaw-LLM)_. [arxiv, 2023]. <br>
+*Chenyang Lyu, Minghao Wu, Longyue Wang, Xinting Huang, Bingshuai Liu, Zefeng Du, Shuming Shi, Zhaopeng Tu.*<br>
+[[Paper](https://arxiv.org/pdf/2306.09093)] [[Code](https://github.com/lyuchenyang/Macaw-LLM)]
+
+**PG-Video-LLaVA: Pixel Grounding Large Video-Language Models.** _(PG-Video-LLaVA)_. [arxiv, 2023]. <br>
+*Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan.*<br>
+[[Paper](https://arxiv.org/pdf/2311.13435)] [[Code](https://github.com/mbzuai-oryx/Video-LLaVA)]
 
 **ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders.** _(Vic-MAE)_. [arxiv, 2023]. <br>
 *Jefferson Hernandez, Ruben Villegas, Vicente Ordonez.*<br>
