@@ -56,6 +56,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612152)] [[Code](https://github.com/SCZwangxiao/RTQ-MM2023)]
  
+**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models.** _(VideoLDM)_. [CVPR, 2023]. <br>
+*Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)] 
+
 **Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models.** _(BIKE)_. [CVPR, 2023]. <br>
 *Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Bidirectional_Cross-Modal_Knowledge_Exploration_for_Video_Recognition_With_Pre-Trained_Vision-Language_CVPR_2023_paper.pdf)] [[Code](https://github.com/whwu95/BIKE)]
@@ -72,14 +76,18 @@ The field of video understanding is undergoing significant advancement, as evide
 *Syed Talal Wasim, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wasim_Vita-CLIP_Video_and_Text_Adaptive_CLIP_via_Multimodal_Prompting_CVPR_2023_paper.pdf)] [[Code](https://github.com/TalalWasim/Vita-CLIP)]
 
-**Unmasked Teacher: Towards Training-Efficient Video Foundation Models.** _(UMT)_. [ICCV, 2023]. <br>
-*Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
-[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unmasked_Teacher_Towards_Training-Efficient_Video_Foundation_Models_ICCV_2023_paper.pdf)] [[Code](https://github.com/OpenGVLab/unmasked_teacher.git)]
- 
 **Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning.** _(DiST)_. [ICCV, 2023]. <br>
 *Zhiwu Qing, Shiwei Zhang, Ziyuan Huang, Yingya Zhang, Changxin Gao, Deli Zhao, Nong Sang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Qing_Disentangling_Spatial_and_Temporal_Learning_for_Efficient_Image-to-Video_Transfer_Learning_ICCV_2023_paper.pdf)] [[Code](https://github.com/alibaba-mmai-research/DiST)]
 
+**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models.** _(pyoco)_. [ICCV, 2023]. <br>
+*Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ge_Preserve_Your_Own_Correlation_A_Noise_Prior_for_Video_Diffusion_ICCV_2023_paper.pdf)] [[Demo](https://research.nvidia.com/labs/dir/pyoco/)]
+
+**Unmasked Teacher: Towards Training-Efficient Video Foundation Models.** _(UMT)_. [ICCV, 2023]. <br>
+*Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unmasked_Teacher_Towards_Training-Efficient_Video_Foundation_Models_ICCV_2023_paper.pdf)] [[Code](https://github.com/OpenGVLab/unmasked_teacher.git)]
+ 
 **AIM: Adapting Image Models for Efficient Video Action Recognition.** _(AIM)_. [ICLR, 2023]. <br>
 *Taojiannan Yang, Yi Zhu, Yusheng Xie, Aston Zhang, Chen Chen, Mu Li.*<br>
 [[Paper](https://openreview.net/pdf?id=CIoSZ_HKHS7)] [[Code](https://adapt-image-models.github.io/)]
@@ -123,6 +131,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **Harvest Video Foundation Models via Efficient Post-Pretraining.** _(Harvest)_. [arxiv, 2023]. <br>
 *Yizhuo Li, Kunchang Li, Yinan He, Yi Wang, Yali Wang, Limin Wang, Yu Qiao, Ping Luo.*<br>
 [[Paper](https://arxiv.org/pdf/2310.19554.pdf)] [[Code](https://github.com/OpenGVLab/InternVideo)]
+
+**Motion-Conditioned Diffusion Model for Controllable Video Synthesis.** _(MCDiff)_. [arxiv, 2023]. <br>
+*Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, Tsung-Yi Lin, Ming-Hsuan Yang.*<br>
+[[Paper](https://arxiv.org/pdf/2304.14404)] 
 
 **TaCA: Upgrading Your Visual Foundation Model with Task-agnostic Compatible Adapter.** _(TaCA)_. [arxiv, 2023]. <br>
 *Binjie Zhang, Yixiao Ge, Xuyuan Xu, Ying Shan, Mike Zheng Shou.*<br>
@@ -168,6 +180,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li.*<br>
 [[Paper](https://arxiv.org/pdf/2104.08860)] [[Code](https://github.com/ArrowLuo/CLIP4Clip)]
 
+**Imagen Video: High Definition Video Generation with Diffusion Models.** _(Imagen Video)_. [arxiv, 2022]. <br>
+*Jonathan Ho, William Chan, Chitwan Saharia, Jay Whang, Ruiqi Gao, Alexey Gritsenko, Diederik P. Kingma, Ben Poole, Mohammad Norouzi, David J. Fleet, Tim Salimans.*<br>
+[[Paper](https://arxiv.org/pdf/2210.02303)] [[Demo](https://imagen.research.google/video/)]
+
 **Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models.** _(MOV)_. [arxiv, 2022]. <br>
 *Rui Qian, Yeqing Li, Zheng Xu, Ming-Hsuan Yang, Serge Belongie, Yin Cui.*<br>
 [[Paper](https://arxiv.org/pdf/2207.07646)] 
@@ -194,13 +210,29 @@ The field of video understanding is undergoing significant advancement, as evide
 
 
 # Video-based
+**ControlVideo: Training-free Controllable Text-to-Video Generation.** _(ControlVideo)_. [ICLR, 2024]. <br>
+*Yabo Zhang, Yuxiang Wei, Dongsheng Jiang, Xiaopeng Zhang, Wangmeng Zuo, Qi Tian.*<br>
+[[Paper](https://openreview.net/pdf?id=5a79AqFr0c)] [[Code](https://github.com/YBYBZhang/ControlVideo)]
+
 **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.** _(ViCLIP)_. [ICLR, 2024]. <br>
 *Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, Guo Chen, Xinyuan Chen, Yaohui Wang, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://openreview.net/pdf?id=MLBdiWu4Fw)] [[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)]
 
+**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework.** _(MORA)_. [arxiv, 2024]. <br>
+*Zhengqing Yuan, Ruoxi Chen, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun.*<br>
+[[Paper](https://arxiv.org/pdf/2403.13248)] [[Code](https://github.com/lichao-sun/Mora)]
+
+**Lumiere: A Space-Time Diffusion Model for Video Generation.** _(Lumiere)_. [arxiv, 2024]. <br>
+*Omer Bar-Tal, Hila Chefer, Omer Tov, Charles Herrmann, Roni Paiss, Shiran Zada, Ariel Ephrat, Junhwa Hur, Guanghui Liu, Amit Raj, Yuanzhen Li, Michael Rubinstein, Tomer Michaeli, Oliver Wang, Deqing Sun, Tali Dekel, Inbar Mosseri.*<br>
+[[Paper](https://arxiv.org/pdf/2401.12945)] [[Demo](https://lumiere-video.github.io/)]
+
 **VideoChat: Chat-Centric Video Understanding.** _(VideoChat)_. [arxiv, 2024]. <br>
 *KunChang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang, Ping Luo, Yali Wang, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://arxiv.org/pdf/2305.06355)] [[Code](https://github.com/OpenGVLab/Ask-Anything)]
+
+**Video generation models as world simulators.** _(SORA)_. [OpenAI, 2024]. <br>
+*OpenAI.*<br>
+[[Link](https://openai.com/index/video-generation-models-as-world-simulators/)] 
 
 **All in One: Exploring Unified Video-Language Pre-training.** _(All-in-One)_. [CVPR, 2023]. <br>
 *Alex Jinpeng Wang, Yixiao Ge, Rui Yan, Yuying Ge, Xudong Lin, Guanyu Cai, Jianping Wu, Ying Shan, Xiaohu Qie, Mike Zheng Shou.*<br>
@@ -254,6 +286,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Mariana-Iuliana Georgescu, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Georgescu_Audiovisual_Masked_Autoencoders_ICCV_2023_paper.pdf)]
 
+**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing.** _(FateZero)_. [ICCV, 2023]. <br>
+*Chenyang Qi, Xiaodong Cun, Yong Zhang, Chenyang Lei, Xintao Wang, Ying Shan, Qifeng Chen.*<br>
+[[Paper](https://arxiv.org/pdf/2303.09535)] [[Code](https://github.com/ChenyangQiQi/FateZero)]
+
 **HiTeA: Hierarchical Temporal-Aware Video-Language Pre-training.** _(Hitea)_. [ICCV, 2023]. <br>
 *Qinghao Ye, Guohai Xu, Ming Yan, Haiyang Xu, Qi Qian, Ji Zhang, Fei Huang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_HiTeA_Hierarchical_Temporal-Aware_Video-Language_Pre-training_ICCV_2023_paper.pdf)]
@@ -266,6 +302,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Pandeng Li, Chen-Wei Xie, Liming Zhao, Hongtao Xie, Jiannan Ge, Yun Zheng, Deli Zhao, Yongdong Zhang·*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Progressive_Spatio-Temporal_Prototype_Matching_for_Text-Video_Retrieval_ICCV_2023_paper.pdf)] [[Code](https://github.com/IMCCretrieval/ProST)]
 
+**StableVideo: Text-driven Consistency-aware Diffusion Video Editing.** _(StableVideo)_. [ICCV, 2023]. <br>
+*Wenhao Chai, Xun Guo, Gaoang Wang, Yan Lu·*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chai_StableVideo_Text-driven_Consistency-aware_Diffusion_Video_Editing_ICCV_2023_paper.pdf)] [[Code](https://github.com/rese1f/StableVideo)]
+
 **Verbs in Action: Improving verb understanding in video-language models.** _(VFC)_. [ICCV, 2023]. <br>
 *Liliane Momeni, Mathilde Caron, Arsha Nagrani, Andrew Zisserman, Cordelia Schmid.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Momeni_Verbs_in_Action_Improving_Verb_Understanding_in_Video-Language_Models_ICCV_2023_paper.pdf)] [[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/verbs_in_action)]
@@ -274,13 +314,29 @@ The field of video understanding is undergoing significant advancement, as evide
 *Zhenhailong Wang, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji.*<br>
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/420492060687ca7448398c4c3fa10366-Paper-Conference.pdf)] [[Code](https://github.com/MikeWangWZHL/Paxion)]
 
+**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models.** _(Control-A-Video)_. [arxiv, 2023]. <br>
+*Weifeng Chen, Yatai Ji, Jie Wu, Hefeng Wu, Pan Xie, Jiashi Li, Xin Xia, Xuefeng Xiao, Liang Lin.*<br>
+[[Paper](https://arxiv.org/pdf/2305.13840)] [[Code](https://github.com/Weifeng-Chen/control-a-video)]
+
+**Dreamix: Video Diffusion Models are General Video Editors.** _(Dreammix)_. [arxiv, 2023]. <br>
+*Eyal Molad, Eliahu Horwitz, Dani Valevski, Alex Rav Acha, Yossi Matias, Yael Pritch, Yaniv Leviathan, Yedid Hoshen.*<br>
+[[Paper](https://arxiv.org/pdf/2302.01329)] 
+
 **MuLTI: Efficient Video-and-Language Understanding with Text-Guided MultiWay-Sampler and Multiple Choice Modeling.** _(MuLTI)_. [arxiv, 2023]. <br>
 *Jiaqi Xu, Bo Liu, Yunkuo Chen, Mengli Cheng, Xing Shi.*<br>
 [[Paper](https://arxiv.org/pdf/2303.05707)] 
 
+**Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets.** _(SV3D)_. [arxiv, 2023]. <br>
+*Andreas Blattmann, Tim Dockhorn, Sumith Kulal, Daniel Mendelevitch, Maciej Kilian, Dominik Lorenz, Yam Levi, Zion English, Vikram Voleti, Adam Letts, Varun Jampani, Robin Rombach.*<br>
+[[Paper](https://arxiv.org/pdf/2311.15127)] [[Code](https://github.com/Stability-AI/generative-models)]
+
 **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models.** _(Video-ChatGPT)_. [arxiv, 2023]. <br>
 *Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan.*<br>
 [[Paper](https://arxiv.org/pdf/2306.05424)] [[Code](https://github.com/mbzuai-oryx/Video-ChatGPT)]
+
+**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning.** _(VALOR)_. [arxiv, 2023]. <br>
+*Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal.*<br>
+[[Paper](https://github.com/HL-hanlin/VideoDirectorGPT)] [[Code](https://arxiv.org/pdf/2309.15091)]
 
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection.** _(Video-LLaVA)_. [arxiv, 2023]. <br>
 *Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng Jin, Li Yuan.*<br>
@@ -341,6 +397,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **It Takes Two: Masked Appearance-Motion Modeling for Self-supervised Video Transformer Pre-training.** _(MAM<sup>2</sup>)_. [arxiv, 2022]. <br>
 *Yuxin Song, Min Yang, Wenhao Wu, Dongliang He, Fu Li, Jingdong Wang.*<br>
 [[Paper](https://arxiv.org/pdf/2210.05234)] 
+
+**Make-A-Video: Text-to-Video Generation without Text-Video Data.** _(Make-A-Video)_. [arxiv, 2022]. <br>
+*Uriel Singer, Adam Polyak, Thomas Hayes, Xi Yin, Jie An, Songyang Zhang, Qiyuan Hu, Harry Yang, Oron Ashual, Oran Gafni, Devi Parikh, Sonal Gupta, Yaniv Taigman.*<br>
+[[Paper](https://arxiv.org/pdf/2209.14792)] 
 
 **SimVTP: Simple Video Text Pre-training with Masked Autoencoders.** _(SimVTP)_. [arxiv, 2022]. <br>
 *Yue Ma, Tianyu Yang, Yin Shan, Xiu Li.*<br>
