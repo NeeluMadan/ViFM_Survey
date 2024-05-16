@@ -10,6 +10,7 @@ Neelu Madan, Andreas Moegelmose, Rajat Modi, Yogesh S. Rawat, Thomas B. Moeslund
 
 ![benchmark](./Images/video_papers.png)
 
+# Motivation
 The field of video understanding is undergoing significant advancement, as evidenced by the increasing number of research publications focused on various video understanding tasks (Figure below). This growth coincides with the development of large-scale pretraining techniques. These techniques have demonstrated remarkable capabilities in adapting to diverse tasks, requiring minimal additional training with robust generalization. As a result, researchers are actively investigating the role of these foundational models to address a broad spectrum of video understanding challenges. We surveyed more than 200 foundation models, analyzing their performance over several common video tasks. Our survey, [Foundation Model for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770), also provides an overview of 16 different video tasks, including their benchmarks and evaluation metrics.
 
 ![benchmark](./Images/Model_Task_Progress.png)
@@ -44,9 +45,17 @@ The field of video understanding is undergoing significant advancement, as evide
 *Mengmeng Wang, Jiazheng Xing, Boyuan Jiang, Jun Chen, Jianbiao Mei, Xingxing Zuo, Guang Dai, Jingdong Wang, Yong Liu.*<br>
 [[Paper](https://arxiv.org/pdf/2401.11649)] 
 
+**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter.** _(PaLM2-VAdapter)_. [arxiv, 2024]. <br>
+*Junfei Xiao, Zheng Xu, Alan Yuille, Shen Yan, Boyu Wang.*<br>
+[[Paper](https://arxiv.org/pdf/2402.10896)] 
+
 **Revealing Single Frame Bias for Video-and-Language Learning.** _(Singularity)_. [ACL, 2023]. <br>
 *Jie Lei, Tamara L Berg, Mohit Bansal.*<br>
 [[Paper](https://aclanthology.org/2023.acl-long.29.pdf)] [[Code](https://github.com/jayleicn/singularity)]
+
+**AdaCLIP: Towards Pragmatic Multimodal Video Retrieval.** _(AdaCLIP)_. [ACM-MM, 2023]. <br>
+*Zhiming Hu, Angela Ning Ye, Salar Hosseini Khorasgani, Iqbal Mohomed.*<br>
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612161)] [[Code](https://github.com/SamsungLabs/AdaCLIP)]
 
 **CLIP4Caption: CLIP for Video Caption.** _(CLIP4Caption)_. [ACM-MM, 2023]. <br>
 *Mingkang Tang, Zhanyu Wang, Zhenhua Liu, Fengyun Rao, Dian Li, Xiu Li.*<br>
@@ -88,6 +97,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unmasked_Teacher_Towards_Training-Efficient_Video_Foundation_Models_ICCV_2023_paper.pdf)] [[Code](https://github.com/OpenGVLab/unmasked_teacher.git)]
  
+**Alignment and Generation Adapter for Efficient Video-text Understanding.** _(AG-Adapter)_. [ICCVW, 2023]. <br>
+*Han Fang, Zhifei Yang, Yuhan Wei, Xianghao Zang, Chao Ban, Zerun Feng, Zhongjiang He, Yongxiang Li, Hao Sun.*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Fang_Alignment_and_Generation_Adapter_for_Efficient_Video-Text_Understanding_ICCVW_2023_paper.pdf)] 
+
 **AIM: Adapting Image Models for Efficient Video Action Recognition.** _(AIM)_. [ICLR, 2023]. <br>
 *Taojiannan Yang, Yi Zhu, Yusheng Xie, Aston Zhang, Chen Chen, Mu Li.*<br>
 [[Paper](https://openreview.net/pdf?id=CIoSZ_HKHS7)] [[Code](https://adapt-image-models.github.io/)]
@@ -95,6 +108,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge.** _(MAXI)_. [ICCV, 2023]. <br>
 *Wei Lin, Leonid Karlinsky, Nina Shvetsova, Horst Possegger, Mateusz Kozinski, Rameswar Panda, Rogerio Feris, Hilde Kuehne, Horst Bischof.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MAtch_eXpand_and_Improve_Unsupervised_Finetuning_for_Zero-Shot_Action_Recognition_ICCV_2023_paper.pdf)] [[Code](https://github.com/wlin-at/MAXI)]
+
+**Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval.** _(PromptSwitch)_. [ICCV, 2023]. <br>
+*Chaorui Deng, Qi Chen, Pengda Qin, Da Chen, Qi Wu.*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Prompt_Switch_Efficient_CLIP_Adaptation_for_Text-Video_Retrieval_ICCV_2023_paper.pdf)] [[Code](https://github.com/bladewaltz1/PromptSwitch)]
 
 **Alignment and Generation Adapter for Efficient Video-text Understanding.** _(AG-Adapter)_. [ICCVW, 2023]. <br>
 *Han Fang; Zhifei Yang; Yuhan Wei; Xianghao Zang; Chao Ban; Zerun Feng; Zhongjiang He; Yongxiang Li; Hao Sun.*<br>
@@ -179,6 +196,14 @@ The field of video understanding is undergoing significant advancement, as evide
 **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval.** _(CLIP4Clip)_. [Neurocomputing, 2022]. <br>
 *Huaishao Luo, Lei Ji, Ming Zhong, Yang Chen, Wen Lei, Nan Duan, Tianrui Li.*<br>
 [[Paper](https://arxiv.org/pdf/2104.08860)] [[Code](https://github.com/ArrowLuo/CLIP4Clip)]
+
+**Transferring Image-CLIP to Video-Text Retrieval via Temporal Relations.** _(CLIP2Video)_. [TMM, 2022]. <br>
+*Han Fang, Pengfei Xiong, Luhui Xu, Wenhan Luo.*<br>
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9973385)] 
+
+**Cross-Modal Adapter for Text-Video Retrieval.** _(Cross-Modal-Adapter)_. [arxiv, 2022]. <br>
+*Haojun Jiang, Jianke Zhang, Rui Huang, Chunjiang Ge, Zanlin Ni, Jiwen Lu, Jie Zhou, Shiji Song, Gao Huang.*<br>
+[[Paper](https://arxiv.org/pdf/2211.09623)] [[Code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
 
 **Imagen Video: High Definition Video Generation with Diffusion Models.** _(Imagen Video)_. [arxiv, 2022]. <br>
 *Jonathan Ho, William Chan, Chitwan Saharia, Jay Whang, Ruiqi Gao, Alexey Gritsenko, Diederik P. Kingma, Ben Poole, Mohammad Norouzi, David J. Fleet, Tim Salimans.*<br>
