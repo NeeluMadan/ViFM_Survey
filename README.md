@@ -113,6 +113,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Chaorui Deng, Qi Chen, Pengda Qin, Da Chen, Qi Wu.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Prompt_Switch_Efficient_CLIP_Adaptation_for_Text-Video_Retrieval_ICCV_2023_paper.pdf)] [[Code](https://github.com/bladewaltz1/PromptSwitch)]
 
+**Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer.** _(Temp-adapter)_. [ICCV, 2023]. <br>
+*Guangyi Chen, Xiao Liu, Guangrun Wang, Kun Zhang, Philip H.S.Torr, Xiao-Ping Zhang, Yansong Tang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Tem-Adapter_Adapting_Image-Text_Pretraining_for_Video_Question_Answer_ICCV_2023_paper.pdf)] [[Code](https://github.com/XLiu443/Tem-adapter)]
+
 **Alignment and Generation Adapter for Efficient Video-text Understanding.** _(AG-Adapter)_. [ICCVW, 2023]. <br>
 *Han Fang; Zhifei Yang; Yuhan Wei; Xianghao Zang; Chao Ban; Zerun Feng; Zhongjiang He; Yongxiang Li; Hao Sun.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Fang_Alignment_and_Generation_Adapter_for_Efficient_Video-Text_Understanding_ICCVW_2023_paper.pdf)] 
@@ -141,7 +145,7 @@ The field of video understanding is undergoing significant advancement, as evide
 *Quan Sun, Yuxin Fang, Ledell Wu, Xinlong Wang, Yue Cao.*<br>
 [[Paper](https://arxiv.org/pdf/2303.15389)] [[Code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP)]
 
-**Fine-grained Text-Video Retrieval with Frozen Image Encoders.** _(CrossTVR)_. [arxiv, 2023]. <br>
+**Fine-grained Text-Video Retrieval with Frozen Image Encoders.** _(CrossVTR)_. [arxiv, 2023]. <br>
 *Zuozhuo Dai, Fangtao Shao, Qingkun Su, Zilong Dong, Siyu Zhu.*<br>
 [[Paper](https://arxiv.org/pdf/2307.09972)] 
 
@@ -165,6 +169,14 @@ The field of video understanding is undergoing significant advancement, as evide
 *Adeel Yousaf, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah.*<br>
 [[Paper](https://arxiv.org/pdf/2310.15324)] 
  
+**ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection.** _(ZEETAD)_. [WACV, 2024]. <br>
+*Thinh Phan, Khoa Vo, Duy Le, Gianfranco Doretto, Donald Adjeroh, Ngan Le.*<br>
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf)] [[Code](https://github.com/leexinhao/ZeroI2V)]
+
+**ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video.** _(ZeroI2V)_. [arxiv, 2023]. <br>
+*Xinhao Li, Limin Wang.*<br>
+[[Paper](https://arxiv.org/pdf/2310.01324)] [[Code](https://github.com/leexinhao/ZeroI2V)]
+
 **FitCLIP: Refining Large-Scale Pretrained Image-Text Models for Zero-Shot Video Understanding Tasks.** _(FitCLIP)_. [BMVC, 2022]. <br>
 *Santiago Castro and Fabian Caba.*<br>
 [[Paper](https://bmvc2022.mpi-inf.mpg.de/0939.pdf)] [[Code](https://github.com/bryant1410/fitclip)]
