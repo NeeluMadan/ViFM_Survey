@@ -49,6 +49,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Junfei Xiao, Zheng Xu, Alan Yuille, Shen Yan, Boyu Wang.*<br>
 [[Paper](https://arxiv.org/pdf/2402.10896)] 
 
+**Question-Instructed Visual Descriptions for Zero-Shot Video Question Answering.** _(Q-ViD)_. [arxiv, 2024]. <br>
+*David Romero, Thamar Solorio.*<br>
+[[Paper](https://arxiv.org/pdf/2402.10698)] 
+
 **Revealing Single Frame Bias for Video-and-Language Learning.** _(Singularity)_. [ACL, 2023]. <br>
 *Jie Lei, Tamara L Berg, Mohit Bansal.*<br>
 [[Paper](https://aclanthology.org/2023.acl-long.29.pdf)] [[Code](https://github.com/jayleicn/singularity)]
@@ -80,6 +84,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **Fine-tuned CLIP Models are Efficient Video Learners.** _(ViFi-CLIP)_. [CVPR, 2023]. <br>
 *Hanoona Rasheed, Muhammad Uzair Khattak, Muhammad Maaz, Salman Khan, Fahad Shahbaz Khan.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Rasheed_Fine-Tuned_CLIP_Models_Are_Efficient_Video_Learners_CVPR_2023_paper.pdf)] [[Code](https://github.com/muzairkhattak/ViFi-CLIP)]
+
+**VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval.** _(VoP)_. [CVPR, 2023]. <br>
+*Siteng Huang, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_VoP_Text-Video_Co-Operative_Prompt_Tuning_for_Cross-Modal_Retrieval_CVPR_2023_paper.pdf)] [[Code](https://github.com/bighuang624/VoP)]
 
 **Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting.** _(Vita-CLIP)_. [CVPR, 2023]. <br>
 *Syed Talal Wasim, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah.*<br>
@@ -120,7 +128,11 @@ The field of video understanding is undergoing significant advancement, as evide
 **Alignment and Generation Adapter for Efficient Video-text Understanding.** _(AG-Adapter)_. [ICCVW, 2023]. <br>
 *Han Fang; Zhifei Yang; Yuhan Wei; Xianghao Zang; Chao Ban; Zerun Feng; Zhongjiang He; Yongxiang Li; Hao Sun.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Fang_Alignment_and_Generation_Adapter_for_Efficient_Video-Text_Understanding_ICCVW_2023_paper.pdf)] 
- 
+
+**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts.** _(ViTiS)_. [ICCVW, 2023]. <br>
+*Deniz Engin, Yannis Avrithis.*<br>
+[[Paper](https://arxiv.org/pdf/2309.15915)] [[Code](https://github.com/engindeniz/vitis)]
+
 **CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment.** _(CLIP-ViP)_. [ICLR, 2023]. <br>
 *Hongwei Xue, Yuchong Sun, Bei Liu, Jianlong Fu, Ruihua Song, Houqiang Li, Jiebo Luo.*<br>
 [[Paper](https://arxiv.org/pdf/2209.06430.pdf)] [[Code](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
@@ -132,6 +144,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **Bootstrapping Vision-Language Learning with Decoupled Language Pre-training.** _(P-Former)_. [NeurIPS, 2023]. <br>
 *Yiren Jian, Chongyang Gao, Soroush Vosoughi.*<br>
 [[Paper](https://openreview.net/pdf?id=8Kch0ILfQH)] [[Code](https://github.com/yiren-jian/BLIText)]
+
+**InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning.** _(InstructBLIP)_. [NeurIPS, 2023]. <br>
+*Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi.*<br>
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9a6a435e75419a836fe47ab6793623e6-Paper-Conference.pdf)] [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)]
 
 **Language-based Action Concept Spaces Improve Video Self-Supervised Learning.** _(LSS)_. [NeurIPS, 2023]. <br>
 *Kanchana Ranasinghe, Michael Ryoo.*<br>
