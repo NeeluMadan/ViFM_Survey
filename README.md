@@ -68,7 +68,11 @@ The field of video understanding is undergoing significant advancement, as evide
 **RTQ: Rethinking Video-language Understanding Based on Image-text Model.** _(RTQ)_. [ACM Multimedia, 2023]. <br>
 *Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612152)] [[Code](https://github.com/SCZwangxiao/RTQ-MM2023)]
- 
+
+**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning.** [ACM Multimedia, 2023]. <br>
+*Qiang Wang, Junlong Du, Ke Yan, Shouhong Ding.*<br>
+[[Paper](https://arxiv.org/pdf/2308.04828)]
+
 **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models.** _(VideoLDM)_. [CVPR, 2023]. <br>
 *Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)] 
