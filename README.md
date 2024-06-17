@@ -204,7 +204,11 @@ The field of video understanding is undergoing significant advancement, as evide
 **Revisiting the "Video" in Video-Language Understanding.** _(ATP)_. [CVPR, 2022]. <br>
 *Shyamal Buch, Cristóbal Eyzaguirre, Adrien Gaidon, Jiajun Wu, Li Fei-Fei, Juan Carlos Niebles.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf)] [[Code](https://github.com/StanfordVL/atp-video-language)]
- 
+
+**X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval.** _(X-Pool)_. [CVPR, 2022]. <br>
+*Satya Krishna Gorti, Noel Vouitsis, Junwei Ma, Keyvan Golestan, Maksims Volkovs, Animesh Garg, Guangwei Yu.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gorti_X-Pool_Cross-Modal_Language-Video_Attention_for_Text-Video_Retrieval_CVPR_2022_paper.pdf)] [[Code](https://github.com/layer6ai-labs/xpool)]
+
 **Frozen CLIP models are Efficient Video Learners.**  _(EVL)_. [ECCV, 2022]. <br>
 *Ziyi Lin, Shijie Geng, Renrui Zhang, Peng Gao, Gerard de Melo, Xiaogang Wang, Jifeng Dai, Yu Qiao, Hongsheng Li.*<br>
 [[Paper](https://arxiv.org/pdf/2208.03550.pdf)] [[Code](https://github.com/OpenGVLab/efficient-video-recognition.git)]
@@ -228,6 +232,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **Transferring Image-CLIP to Video-Text Retrieval via Temporal Relations.** _(CLIP2Video)_. [TMM, 2022]. <br>
 *Han Fang, Pengfei Xiong, Luhui Xu, Wenhan Luo.*<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9973385)] 
+
+**CenterCLIP: Token Clustering for Efficient Text-Video Retrieval.** _(CenterCLIP)_. [SIGIR, 2022]. <br>
+*Shuai Zhao, Linchao Zhu, Xiaohan Wang, Yi Yang.*<br>
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531950)] [[Code](https://github.com/mzhaoshuai/CenterCLIP)]
 
 **Cross-Modal Adapter for Text-Video Retrieval.** _(Cross-Modal-Adapter)_. [arxiv, 2022]. <br>
 *Haojun Jiang, Jianke Zhang, Rui Huang, Chunjiang Ge, Zanlin Ni, Jiwen Lu, Jie Zhou, Shiji Song, Gao Huang.*<br>
