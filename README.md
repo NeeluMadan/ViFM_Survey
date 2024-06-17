@@ -121,6 +121,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Chaorui Deng, Qi Chen, Pengda Qin, Da Chen, Qi Wu.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Prompt_Switch_Efficient_CLIP_Adaptation_for_Text-Video_Retrieval_ICCV_2023_paper.pdf)] [[Code](https://github.com/bladewaltz1/PromptSwitch)]
 
+**Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval.** _(ProST)_. [ICCV, 2023]. <br>
+*Pandeng Li, Chen-Wei Xie, Liming Zhao, Hongtao Xie, Jiannan Ge, Yun Zheng, Deli Zhao, Yongdong Zhang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Progressive_Spatio-Temporal_Prototype_Matching_for_Text-Video_Retrieval_ICCV_2023_paper.pdf)] [[Code](https://github.com/IMCCretrieval/ProST)]
+
 **Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer.** _(Temp-adapter)_. [ICCV, 2023]. <br>
 *Guangyi Chen, Xiao Liu, Guangrun Wang, Kun Zhang, Philip H.S.Torr, Xiao-Ping Zhang, Yansong Tang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Tem-Adapter_Adapting_Image-Text_Pretraining_for_Video_Question_Answer_ICCV_2023_paper.pdf)] [[Code](https://github.com/XLiu443/Tem-adapter)]
@@ -156,7 +160,11 @@ The field of video understanding is undergoing significant advancement, as evide
 **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks.** _(MaMMUT)_. [TMLR, 2023]. <br>
 *Weicheng Kuo, AJ Piergiovanni, Dahun Kim, Xiyang Luo, Ben Caine, Wei Li, Abhijit Ogale, Luowei Zhou, Andrew Dai, Zhifeng Chen, Claire Cui, Anelia Angelova.*<br>
 [[Paper](https://openreview.net/pdf?id=FqOG4osY7C)] [[Code](https://github.com/lucidrains/MaMMUT-pytorch)]
- 
+
+**MEME: Multi-Encoder Multi-Expert Framework with Data Augmentation for Video Retrieval.** _(MEME)_. [SIGIR, 2023]. <br>
+*Seong-Min Kang, Yoon-Sik Cho.*<br>
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591726)] [[Code](https://github.com/kang7734/MEME__/tree/main/X-CLIP)]
+
 **EVA-CLIP: Improved Training Techniques for CLIP at Scale.** _(EVA-CLIP)_. [arxiv, 2023]. <br>
 *Quan Sun, Yuxin Fang, Ledell Wu, Xinlong Wang, Yue Cao.*<br>
 [[Paper](https://arxiv.org/pdf/2303.15389)] [[Code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP)]
