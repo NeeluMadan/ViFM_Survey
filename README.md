@@ -133,6 +133,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Guangyi Chen, Xiao Liu, Guangrun Wang, Kun Zhang, Philip H.S.Torr, Xiao-Ping Zhang, Yansong Tang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Tem-Adapter_Adapting_Image-Text_Pretraining_for_Video_Question_Answer_ICCV_2023_paper.pdf)] [[Code](https://github.com/XLiu443/Tem-adapter)]
 
+**Tracking Anything with Decoupled Video Segmentation.** _(DEVA)_. [ICCV, 2023]. <br>
+*Guangyi Chen, Xiao Liu, Guangrun Wang, Kun Zhang, Philip H.S.Torr, Xiao-Ping Zhang, Yansong Tang.*<br>
+[[Paper](https://arxiv.org/pdf/2309.03903)] [[Code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)]
+
 **Alignment and Generation Adapter for Efficient Video-text Understanding.** _(AG-Adapter)_. [ICCVW, 2023]. <br>
 *Han Fang; Zhifei Yang; Yuhan Wei; Xianghao Zang; Chao Ban; Zerun Feng; Zhongjiang He; Yongxiang Li; Hao Sun.*<br>
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Fang_Alignment_and_Generation_Adapter_for_Efficient_Video-Text_Understanding_ICCVW_2023_paper.pdf)] 
@@ -185,13 +189,37 @@ The field of video understanding is undergoing significant advancement, as evide
 *Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, Tsung-Yi Lin, Ming-Hsuan Yang.*<br>
 [[Paper](https://arxiv.org/pdf/2304.14404)] 
 
+**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter.** _(PaLM2-VAdapter)_. [arxiv, 2023]. <br>
+*Junfei Xiao, Zheng Xu, Alan Yuille, Shen Yan, Boyu Wang.*<br>
+[[Paper](https://arxiv.org/pdf/2402.10896)] 
+
+**RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation.** _(RefSAM)_. [arxiv, 2023]. <br>
+*Yonglin Li, Jing Zhang, Xiao Teng, Long Lan.*<br>
+[[Paper](https://arxiv.org/pdf/2307.00997)] 
+
+**Segment and Track Anything.** _(SAM-Track)_. [arxiv, 2023]. <br>
+*Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang.*<br>
+[[Paper](https://arxiv.org/pdf/2305.06558)] [[Code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+
+**Segment Anything Meets Point Tracking.** _(SAM-PT)_. [arxiv, 2023]. <br>
+*Frano Rajič, Lei Ke, Yu-Wing Tai, Chi-Keung Tang, Martin Danelljan, Fisher Yu.*<br>
+[[Paper](https://arxiv.org/pdf/2307.01197)] [[Code](https://github.com/SysCV/sam-pt)]
+
+**Track Anything: Segment Anything Meets Videos.** _(TAM)_. [arxiv, 2023]. <br>
+*Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng.*<br>
+[[Paper](https://arxiv.org/pdf/2304.11968)] [[Code](https://github.com/gaomingqi/Track-Anything)]
+
+**Tracking Anything in High Quality.** _(HQTrack)_. [arxiv, 2023]. <br>
+*Jiawen Zhu, Zhenyu Chen, Zeqi Hao, Shijie Chang, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li.*<br>
+[[Paper](https://arxiv.org/pdf/2307.13974)] [[Code](https://github.com/jiawen-zhu/HQTrack)]
+
 **TaCA: Upgrading Your Visual Foundation Model with Task-agnostic Compatible Adapter.** _(TaCA)_. [arxiv, 2023]. <br>
 *Binjie Zhang, Yixiao Ge, Xuyuan Xu, Ying Shan, Mike Zheng Shou.*<br>
 [[Paper](https://arxiv.org/pdf/2306.12642)] 
 
-**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter.** _(PaLM2-VAdapter)_. [arxiv, 2023]. <br>
-*Junfei Xiao, Zheng Xu, Alan Yuille, Shen Yan, Boyu Wang.*<br>
-[[Paper](https://arxiv.org/pdf/2402.10896)] 
+**UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model.** _(UVOSAM)_. [arxiv, 2023]. <br>
+*Zhenghao Zhang, Shengfan Zhang, Zhichao Wei, Zuozhuo Dai, Siyu Zhu.*<br>
+[[Paper](https://arxiv.org/pdf/2305.12659)] [[Code](https://github.com/alibaba/UVOSAM)] 
 
 **Videoprompter: an ensemble of foundational models for zero-shot video understanding.** _(Videoprompter)_. [arxiv, 2023]. <br>
 *Adeel Yousaf, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah.*<br>
