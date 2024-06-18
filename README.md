@@ -359,6 +359,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Rui Wang, Dongdong Chen, Zuxuan Wu, Yinpeng Chen, Xiyang Dai, Mengchen Liu, Lu Yuan, Yu-Gang Jiang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Masked_Video_Distillation_Rethinking_Masked_Feature_Modeling_for_Self-Supervised_Video_CVPR_2023_paper.pdf)] [[Code](https://github.com/ruiwang2021/mvd)]
 
+**MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models.** _(MELTR)_. [CVPR, 2023]. <br>
+*Dohwan Ko, Joonmyung Choi, Hyeong Kyu Choi, Kyoung-Woon On, Byungseok Roh, Hyunwoo J. Kim.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ko_MELTR_Meta_Loss_Transformer_for_Learning_To_Fine-Tune_Video_Foundation_CVPR_2023_paper.pdf)] [[Code](https://github.com/mlvlab/MELTR)]
+
 **Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation.** _(MMVG)_. [CVPR, 2023]. <br>
 *Linjie Li, Zhe Gan, Kevin Lin, Chung-Ching Lin, Zicheng Liu, Ce Liu, Lijuan Wang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Tell_Me_What_Happened_Unifying_Text-Guided_Video_Completion_via_Multimodal_CVPR_2023_paper.pdf)] [[Code](https://github.com/tsujuifu/pytorch_tvc)]
@@ -415,6 +419,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Zhenhailong Wang, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji.*<br>
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/420492060687ca7448398c4c3fa10366-Paper-Conference.pdf)] [[Code](https://github.com/MikeWangWZHL/Paxion)]
 
+**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System.** _(ChatVideo)_. [arxiv, 2023]. <br>
+*Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, Zuxuan Wu, Yu-Gang Jiang.*<br>
+[[Paper](https://arxiv.org/pdf/2304.14407)] 
+
 **Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models.** _(Control-A-Video)_. [arxiv, 2023]. <br>
 *Weifeng Chen, Yatai Ji, Jie Wu, Hefeng Wu, Pan Xie, Jiashi Li, Xin Xia, Xuefeng Xiao, Liang Lin.*<br>
 [[Paper](https://arxiv.org/pdf/2305.13840)] [[Code](https://github.com/Weifeng-Chen/control-a-video)]
@@ -422,6 +430,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **Dreamix: Video Diffusion Models are General Video Editors.** _(Dreammix)_. [arxiv, 2023]. <br>
 *Eyal Molad, Eliahu Horwitz, Dani Valevski, Alex Rav Acha, Yossi Matias, Yael Pritch, Yaniv Leviathan, Yedid Hoshen.*<br>
 [[Paper](https://arxiv.org/pdf/2302.01329)] 
+
+**MM-VID: Advancing Video Understanding with GPT-4V(ision).** _(MM-VID)_. [arxiv, 2023]. <br>
+*Kevin Lin, Faisal Ahmed, Linjie Li, Chung-Ching Lin, Ehsan Azarnasab, Zhengyuan Yang, Jianfeng Wang, Lin Liang, Zicheng Liu, Yumao Lu, Ce Liu, Lijuan Wang.*<br>
+[[Paper](https://arxiv.org/pdf/2310.19773)] [[Demo](https://multimodal-vid.github.io/#video-demos)]
 
 **MuLTI: Efficient Video-and-Language Understanding with Text-Guided MultiWay-Sampler and Multiple Choice Modeling.** _(MuLTI)_. [arxiv, 2023]. <br>
 *Jiaqi Xu, Bo Liu, Yunkuo Chen, Mengli Cheng, Xing Shi.*<br>
@@ -431,6 +443,14 @@ The field of video understanding is undergoing significant advancement, as evide
 *Andreas Blattmann, Tim Dockhorn, Sumith Kulal, Daniel Mendelevitch, Maciej Kilian, Dominik Lorenz, Yam Levi, Zion English, Vikram Voleti, Adam Letts, Varun Jampani, Robin Rombach.*<br>
 [[Paper](https://arxiv.org/pdf/2311.15127)] [[Code](https://github.com/Stability-AI/generative-models)]
 
+**Valley: Video Assistant with Large Language model Enhanced abilitY.** _(Valley)_. [arxiv, 2023]. <br>
+*Ruipu Luo, Ziwang Zhao, Min Yang, Junwei Dong, Da Li, Pengcheng Lu, Tao Wang, Linmei Hu, Minghui Qiu, Zhongyu Wei.*<br>
+[[Paper](https://arxiv.org/pdf/2306.07207)] 
+
+**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models.** _(Video-Bench)_. [arxiv, 2023]. <br>
+*Munan Ning, Bin Zhu, Yujia Xie, Bin Lin, Jiaxi Cui, Lu Yuan, Dongdong Chen, Li Yuan.*<br>
+[[Paper](https://arxiv.org/pdf/2311.16103)] [[Code](https://github.com/PKU-YuanGroup/Video-Bench)]
+
 **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models.** _(Video-ChatGPT)_. [arxiv, 2023]. <br>
 *Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan.*<br>
 [[Paper](https://arxiv.org/pdf/2306.05424)] [[Code](https://github.com/mbzuai-oryx/Video-ChatGPT)]
@@ -438,6 +458,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning.** _(VALOR)_. [arxiv, 2023]. <br>
 *Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal.*<br>
 [[Paper](https://github.com/HL-hanlin/VideoDirectorGPT)] [[Code](https://arxiv.org/pdf/2309.15091)]
+
+**VideoGLUE: Video General Understanding Evaluation of Foundation Models.** _(Video-GLUE)_. [arxiv, 2023]. <br>
+*Liangzhe Yuan, Nitesh Bharadwaj Gundavarapu, Long Zhao, Hao Zhou, Yin Cui, Lu Jiang, Xuan Yang, Menglin Jia, Tobias Weyand, Luke Friedman, Mikhail Sirotenko, Huisheng Wang, Florian Schroff, Hartwig Adam, Ming-Hsuan Yang, Ting Liu, Boqing Gong.*<br>
+[[Paper](https://arxiv.org/pdf/2307.03166)] [[Code](https://github.com/tensorflow/models/tree/master/official/projects/videoglue)]
 
 **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection.** _(Video-LLaVA)_. [arxiv, 2023]. <br>
 *Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng Jin, Li Yuan.*<br>
