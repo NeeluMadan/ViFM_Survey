@@ -311,6 +311,10 @@ The field of video understanding is undergoing significant advancement, as evide
 
 
 # Video-based
+**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding.** _(MovieChat)_. [CVPR, 2024]. <br>
+*Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_MovieChat_From_Dense_Token_to_Sparse_Memory_for_Long_Video_CVPR_2024_paper.pdf)] [[Code](https://github.com/rese1f/MovieChat)]
+
 **ControlVideo: Training-free Controllable Text-to-Video Generation.** _(ControlVideo)_. [ICLR, 2024]. <br>
 *Yabo Zhang, Yuxiang Wei, Dongsheng Jiang, Xiaopeng Zhang, Wangmeng Zuo, Qi Tian.*<br>
 [[Paper](https://openreview.net/pdf?id=5a79AqFr0c)] [[Code](https://github.com/YBYBZhang/ControlVideo)]
@@ -323,6 +327,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Zhengqing Yuan, Ruoxi Chen, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun.*<br>
 [[Paper](https://arxiv.org/pdf/2403.13248)] [[Code](https://github.com/lichao-sun/Mora)]
 
+**Memory Consolidation Enables Long-Context Video Understanding.** _(MC-ViT)_. [ICML, 2024]. <br>
+*Ivana Balažević, Yuge Shi, Pinelopi Papalampidi, Rahma Chaabouni, Skanda Koppula, Olivier J. Hénaff.*<br>
+[[Paper](https://arxiv.org/pdf/2402.05861)]
+
 **Lumiere: A Space-Time Diffusion Model for Video Generation.** _(Lumiere)_. [arxiv, 2024]. <br>
 *Omer Bar-Tal, Hila Chefer, Omer Tov, Charles Herrmann, Roni Paiss, Shiran Zada, Ariel Ephrat, Junhwa Hur, Guanghui Liu, Amit Raj, Yuanzhen Li, Michael Rubinstein, Tomer Michaeli, Oliver Wang, Deqing Sun, Tali Dekel, Inbar Mosseri.*<br>
 [[Paper](https://arxiv.org/pdf/2401.12945)] [[Demo](https://lumiere-video.github.io/)]
@@ -330,6 +338,14 @@ The field of video understanding is undergoing significant advancement, as evide
 **VideoChat: Chat-Centric Video Understanding.** _(VideoChat)_. [arxiv, 2024]. <br>
 *KunChang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang, Ping Luo, Yali Wang, Limin Wang, Yu Qiao.*<br>
 [[Paper](https://arxiv.org/pdf/2305.06355)] [[Code](https://github.com/OpenGVLab/Ask-Anything)]
+
+**VILA: On Pre-training for Visual Language Models.** _(VILA)_. [arxiv, 2024]. <br>
+*Ji Lin, Hongxu Yin, Wei Ping, Yao Lu, Pavlo Molchanov, Andrew Tao, Huizi Mao, Jan Kautz, Mohammad Shoeybi, Song Han.*<br>
+[[Paper](https://arxiv.org/pdf/2312.07533)] [[Code](https://github.com/NVlabs/VILA)]
+
+**World Model on Million-Length Video And Language With Blockwise RingAttention.** _(LWM)_. [arxiv, 2024]. <br>
+*Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel.*<br>
+[[Paper](https://arxiv.org/pdf/2402.08268)] [[Code](https://github.com/LargeWorldModel/LWM)]
 
 **Video generation models as world simulators.** _(SORA)_. [OpenAI, 2024]. <br>
 *OpenAI.*<br>
