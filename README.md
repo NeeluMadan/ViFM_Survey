@@ -189,6 +189,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, Tsung-Yi Lin, Ming-Hsuan Yang.*<br>
 [[Paper](https://arxiv.org/pdf/2304.14404)] 
 
+**Mug-STAN: Adapting Image-Language Pretrained Models for General Video Understanding.** _(Mug-STAN)_. [arxiv, 2023]. <br>
+*Ruyang Liu, Jingjia Huang, Wei Gao, Thomas H. Li, Ge Li.*<br>
+[[Paper](https://arxiv.org/pdf/2311.15075)] [[Code](https://github.com/farewellthree/STAN)]
+
 **PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter.** _(PaLM2-VAdapter)_. [arxiv, 2023]. <br>
 *Junfei Xiao, Zheng Xu, Alan Yuille, Shen Yan, Boyu Wang.*<br>
 [[Paper](https://arxiv.org/pdf/2402.10896)] 
@@ -314,6 +318,14 @@ The field of video understanding is undergoing significant advancement, as evide
 **MovieChat: From Dense Token to Sparse Memory for Long Video Understanding.** _(MovieChat)_. [CVPR, 2024]. <br>
 *Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_MovieChat_From_Dense_Token_to_Sparse_Memory_for_Long_Video_CVPR_2024_paper.pdf)] [[Code](https://github.com/rese1f/MovieChat)]
+
+**SRTube: Video-Language Pre-Training with Action-Centric Video Tube Features and Semantic Role Labeling.** _(SRTube)_. [CVPR, 2024]. <br>
+*Ju-Hee Lee and Je-Won Kang.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_SRTube_Video-Language_Pre-Training_with_Action-Centric_Video_Tube_Features_and_Semantic_CVPR_2024_paper.pdf)] 
+
+**VidLA: Video-Language Alignment at Scale.** _(VidLA)_. [CVPR, 2024]. <br>
+*Mamshad Nayeem Rizve, Fan Fei, Jayakrishnan Unnikrishnan, Son Tran, Benjamin Z. Yao, Belinda Zeng, Mubarak Shah, Trishul Chilimbi.*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Rizve_VidLA_Video-Language_Alignment_at_Scale_CVPR_2024_paper.pdf)] 
 
 **ControlVideo: Training-free Controllable Text-to-Video Generation.** _(ControlVideo)_. [ICLR, 2024]. <br>
 *Yabo Zhang, Yuxiang Wei, Dongsheng Jiang, Xiaopeng Zhang, Wangmeng Zuo, Qi Tian.*<br>
@@ -573,9 +585,29 @@ The field of video understanding is undergoing significant advancement, as evide
 *Peng Jin, Ryuichi Takanobu, Wancai Zhang, Xiaochun Cao, Li Yuan.*<br>
 [[Paper](https://arxiv.org/pdf/2311.08046)] [[Code](https://github.com/PKU-YuanGroup/Chat-UniVi)]
 
+**Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with LLMs.** _(Dysen-VDM)_. [CVPR, 2024]. <br>
+*Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua.*<br>
+[[Paper](https://arxiv.org/pdf/2308.13812)] [[Code](https://github.com/scofield7419/Dysen)]
+
 **General Object Foundation Model for Images and Videos at Scale.** _(GLEE)_. [CVPR, 2024]. <br>
 *Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai.*<br>
 [[Paper](https://arxiv.org/pdf/2312.09158)] [[Code](https://github.com/FoundationVision/GLEE)]
+
+**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding.** _(MA-LMM)_. [CVPR, 2024]. <br>
+*Bo He, Hengduo Li, Young Kyun Jang, Menglin Jia, Xuefei Cao, Ashish Shah, Abhinav Shrivastava, Ser-Nam Lim.*<br>
+[[Paper](https://arxiv.org/pdf/2404.05726)] [[Code](https://github.com/boheumd/MA-LMM)]
+
+**Timechat: A time-sensitive multimodal large language model for long video understanding.** _(TimeChat)_. [CVPR, 2024]. <br>
+*Shuhuai Ren, Linli Yao, Shicheng Li, Xu Sun, Lu Hou.*<br>
+[[Paper](https://arxiv.org/pdf/2312.02051)] [[Code](https://github.com/RenShuhuai-Andy/TimeChat)]
+
+**VideoLLM-online: Online Video Large Language Model for Streaming Video.** _(VideoLLM-online)_. [CVPR, 2024]. <br>
+*Joya Chen, Zhaoyang Lv, Shiwei Wu, Kevin Qinghong Lin, Chenan Song, Difei Gao, Jia-Wei Liu, Ziteng Gao, Dongxing Mao, Mike Zheng Shou.*<br>
+[[Paper](https://arxiv.org/pdf/2406.11816)] [[Code](https://github.com/showlab/VideoLLM-online)]
+
+**LongVLM: Efficient Long Video Understanding via Large Language Models** _(LongVLM)_. [ECCV, 2024]. <br>
+*Yuetian Weng, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang.*<br>
+[[Paper](https://arxiv.org/pdf/2404.03384)] [[Code](https://github.com/ziplab/LongVLM)]
 
 **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment.** _(LanguageBind)_. [ICLR, 2024]. <br>
 *Bin Zhu, Bin Lin, Munan Ning, Yang Yan, Jiaxi Cui, HongFa Wang, Yatian Pang, Wenhao Jiang, Junwu Zhang, Zongwei Li, Wancai Zhang, Zhifeng Li, Wei Liu, Li Yuan.*<br>
@@ -604,6 +636,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **OmniMAE: Single Model Masked Pretraining on Images and Videos.** _(OmniMAE)_. [CVPR, 2023]. <br>
 *Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_OmniMAE_Single_Model_Masked_Pretraining_on_Images_and_Videos_CVPR_2023_paper.pdf)] [[Code](https://github.com/facebookresearch/omnivore/tree/main/omnimae)]
+
+**TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding.** _(TESTA)_. [EMNLP, 2023]. <br>
+*Shuhuai Ren, Sishuo Chen, Shicheng Li, Xu Sun, Lu Hou.*<br>
+[[Paper](https://arxiv.org/pdf/2310.19060)] [[Code](https://github.com/RenShuhuai-Andy/TESTA)]
 
 **SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training.** _(Smaug)_. [ICCV, 2023]. <br>
 *Yuanze Lin, Chen Wei, Huiyu Wang, Alan Yuille, Cihang Xie.*<br>
@@ -636,6 +672,10 @@ The field of video understanding is undergoing significant advancement, as evide
 **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models.** _(PG-Video-LLaVA)_. [arxiv, 2023]. <br>
 *Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan.*<br>
 [[Paper](https://arxiv.org/pdf/2311.13435)] [[Code](https://github.com/mbzuai-oryx/Video-LLaVA)]
+
+**TVTSv2: Learning Out-of-the-box Spatiotemporal Visual Representations at Scale.** _(TVTSv2)_. [arxiv, 2023]. <br>
+*Ziyun Zeng, Yixiao Ge, Zhan Tong, Xihui Liu, Shu-Tao Xia, Ying Shan.*<br>
+[[Paper](https://arxiv.org/pdf/2305.14173)] [[Code](https://github.com/TencentARC/TVTS)]
 
 **ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders.** _(Vic-MAE)_. [arxiv, 2023]. <br>
 *Jefferson Hernandez, Ruben Villegas, Vicente Ordonez.*<br>
