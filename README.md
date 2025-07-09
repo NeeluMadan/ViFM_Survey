@@ -407,6 +407,10 @@ The field of video understanding is undergoing significant advancement, as evide
 *Feng Cheng, Xizi Wang, Jie Lei, David Crandall, Mohit Bansal, Gedas Bertasius.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cheng_VindLU_A_Recipe_for_Effective_Video-and-Language_Pretraining_CVPR_2023_paper.pdf)] [[Code](https://github.com/klauscc/VindLU)]
 
+**Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding.** _(Temporal Recipe)_. [arxiv, 2025]. <br>
+*Thong Nguyen, Zhiyuan Hu, Xu Lin, Cong-Duy Nguyen, See-Kiong Ng, Luu Anh Tuan.*<br>
+[[Paper](https://arxiv.org/abs/2505.12605)] [[Code](https://github.com/nguyentthong/temporal_recipe)]
+
 **An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling.** _(Violetv2)_. [CVPR, 2023]. <br>
 *Tsu-Jui Fu, Linjie Li, Zhe Gan, Kevin Lin, William Yang Wang, Lijuan Wang, Zicheng Liu.*<br>
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_An_Empirical_Study_of_End-to-End_Video-Language_Transformers_With_Masked_Visual_CVPR_2023_paper.pdf)] [[Code](https://github.com/tsujuifu/pytorch_empirical-mvm)]
